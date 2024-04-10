@@ -23,3 +23,7 @@ body, html {
     position: absolute;
     cursor: pointer;
 }
+
+.hidden {
+    display: none;
+}
