@@ -18,8 +18,8 @@ body, html {
     font-size: 24px;
 }
 #target {
-    width: 84px;
-    height: 114px;
+    width: 213px;
+    height: 195px;
     position: absolute;
     cursor: pointer;
 }
