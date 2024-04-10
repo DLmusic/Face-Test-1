@@ -2,7 +2,7 @@ const target = document.getElementById('target');
 const scoreDisplay = document.getElementById('score');
 const speedSlider = document.getElementById('speedSlider');
 let score = 0;
-let moveInterval = 1000; // Initial speed set to 1000 milliseconds
+let moveInterval = 2000; // Initial speed set to 1000 milliseconds
 
 function moveTarget() {
     const x = Math.random() * (window.innerWidth - target.offsetWidth);
